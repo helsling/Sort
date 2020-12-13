@@ -3,8 +3,8 @@ package com.company;
 import javax.swing.*;
 
 public class Sort extends JFrame {
-    static final int WIDTH = 450;                // frame width
-    static final int HEIGHT = 300;               // frame height
+    static final int WIDTH = 500;                // frame width
+    static final int HEIGHT = 400;               // frame height
 
    /* public Sort(){
         setTitle("Sort list ");
